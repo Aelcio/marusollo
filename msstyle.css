@@ -1,0 +1,51 @@
+header{
+    background: #bbbbbb;
+    padding: 20px ;
+}
+
+.caixa{
+    position: relative;
+    width:px;
+    margin: 0 auto;
+}
+
+
+
+nav{
+    position: absolute;
+    top: 60px;
+    right: 100px;
+}
+
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 15px;
+    text-decoration: none;
+}   
+
+nav a:hover{
+    color: dimgray;
+}
+
+body{
+    background: #555454;
+}
+
+#banner{
+    width: 25%;
+    margin-left:0px;
+    margin-right:10px;
+    /* margin-top:30px; */ 
+    /* display: block; */
+    
+   
+}
+
